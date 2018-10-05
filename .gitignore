@@ -1,0 +1,5 @@
+bin
+build
+hexes
+*.png
+.*.sw[pq]
